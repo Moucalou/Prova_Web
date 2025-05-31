@@ -1,0 +1,19 @@
+.divPrimeira {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 10px;
+}
+
+.tabela_infos {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.linhaDivisora {
+        border: none;
+        border-top: 2px solid #ccc;
+        margin: 10px auto;
+        width: 90%;
+}
